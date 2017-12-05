@@ -1,0 +1,7 @@
+div.slides img {
+#  background-color: #FFFFFF !important;
+}
+.reveal section img { background:none; border:none; box-shadow:none; }
+div#mynetwork, div#tree_network {
+  height: 500px;
+}
