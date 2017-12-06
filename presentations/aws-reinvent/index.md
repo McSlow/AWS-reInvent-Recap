@@ -37,11 +37,13 @@ Note: talk about places etc
 ---
 <!-- .slide: data-background="images/rooms.jpg" -->
 ---
-<!-- .slide: data-background="images/replay3.jpg" -->
+<!-- .slide: data-background="images/replay1.jpg" -->
 ---
 <!-- .slide: data-background="images/replay5.jpg" -->
 ---
 <!-- .slide: data-background="images/tao.jpg" -->
+---
+<!-- .slide: data-background="images/replay3.jpg" -->
 ---
 <!-- .slide: data-background="images/tiship.jpg" -->
 ---
@@ -98,7 +100,6 @@ Note: talk about places etc
 * AWS Comprehend
 * AWS Rekognition Video
   * Face detection, recognition
-
 * AWS SageMaker
   * simplified Machine Learning
 * AWS Translate
