@@ -27,27 +27,27 @@ Note: talk about places etc
 ## Impressions
 
 ---
-![image](images/registration.jpg)
+<!-- .slide: data-background="images/registration.jpg" -->
 ---
-![image](images/awswall.jpg)
+<!-- .slide: data-background="images/awswall.jpg" -->
 ---
-![image](images/floodedfloors.jpg)
+<!-- .slide: data-background="images/floodedfloors.jpg" -->
 ---
-![image](images/floor.jpg)
+<!-- .slide: data-background="images/floor.jpg" -->
 ---
-![image](images/rooms.jpg)
+<!-- .slide: data-background="images/rooms.jpg" -->
 ---
-![image](images/replay3.jpg)
+<!-- .slide: data-background="images/replay3.jpg" -->
 ---
-![image](images/replay5.jpg)
+<!-- .slide: data-background="images/replay5.jpg" -->
 ---
-![image](images/tao.jpg)
+<!-- .slide: data-background="images/tao.jpg" -->
 ---
-![image](images/tiship.jpg)
+<!-- .slide: data-background="images/tiship.jpg" -->
 ---
-![image](images/vegas1.jpg)
+<!-- .slide: data-background="images/vegas1.jpg" -->
 ---
-![image](images/casino.jpg)
+<!-- .slide: data-background="images/casino.jpg" -->
 ---
 ## Announcements
 
