@@ -163,14 +163,20 @@ Note: talk about places etc
 ## Management Tools
 
 * AWS Systems Manager
-
+  * Manages EC2 instances and on-premises Systems
+  * Linux & Windows
+  * lightweight Agent
+  * can detect & remediate configuration drifts
 ---
 
 ## Developer Tools
 
 * AWS Cloud9 IDE
-
+  * cloud-based IDE 
+  * can debug serverless functions
+![cloud9](images/cloud9.png)
 ---
+<!-- .slide: data-background="images/redrock3.jpg" -->
 
 
 #Thanks!
