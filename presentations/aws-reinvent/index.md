@@ -13,17 +13,42 @@
 
 ## AWS re:invent 2017 
 
+<!-- .slide: data-background="images/campusmap.jpg" -->
 * Biggest Conference regarding Cloud 
 * took place in Las Vegas
 * over 1.000 breakout sessions
 * over 50.000 visitors 
 * 5 days, 2 keynotes, too many parties to count
 
-![re:invent campus](images/reinvent-campus.png)
 Note: talk about places etc
 
 ---
 
+## Impressions
+
+---
+![image](images/registration.jpg)
+---
+![image](images/awswall.jpg)
+---
+![image](images/floodedfloors.jpg)
+---
+![image](images/floor.jpg)
+---
+![image](images/rooms.jpg)
+---
+![image](images/replay3.jpg)
+---
+![image](images/replay5.jpg)
+---
+![image](images/tao.jpg)
+---
+![image](images/tiship.jpg)
+---
+![image](images/vegas1.jpg)
+---
+![image](images/casino.jpg)
+---
 ## Announcements
 
 ---
@@ -31,15 +56,16 @@ Note: talk about places etc
 ### Compute
 
 * New instance types
-  * m5 - multi purpose instances
-  * h1 - high throughput, with ssd 
-  * i3.metal - bare metal instances
+  * m5 - multi purpose instances<!-- .element: class="fragment" data-fragment-index="1" -->
+  * h1 - high throughput, with ssd <!-- .element: class="fragment" data-fragment-index="2" -->
+  * i3.metal - bare metal instances<!-- .element: class="fragment" data-fragment-index="3" -->
 
-* AWS Fargate
-  * simplified container deployment
+* AWS Fargate<!-- .element: class="fragment" data-fragment-index="4" -->
+  * simplified container deployment<!-- .element: class="fragment" data-fragment-index="5" -->
 
-* AWS EKS
-  * AWS managed Kubernetes
+* AWS EKS<!-- .element: class="fragment" data-fragment-index="6" -->
+  * AWS managed Kubernetes<!-- .element: class="fragment" data-fragment-index="7" -->
+
 
 ---
 
@@ -47,20 +73,21 @@ Note: talk about places etc
 
 * S3 Select
 * Glacier Select
-
-Only retrieve the Data you actually need
-
-* can use standard SQL Statements to select data
+  * Only retrieve the Data you actually need
+* both can use standard SQL Statements to preselect data
 
 ---
 
 ## IOT
 
-* Amazon FreeRTOS
+* AWS FreeRTOS
   * based on FreeRTOS
 * IOT Device Management
+  * Manage IOT things at scale
 * AWS IOT Analytics
 * AWS IOT 1-Click
+  * assign simple actions to devices
+  * can trigger Lambda functions
 
 ---
 
@@ -68,37 +95,37 @@ Only retrieve the Data you actually need
 
 * AWS DeepLens
   * Machine Learning enabled camera
-* Amazon Comprehend
-* Amazon Rekognition Video
+* AWS Comprehend
+* AWS Rekognition Video
   * Face detection, recognition
 
-* Amazon SageMaker
+* AWS SageMaker
   * simplified Machine Learning
-* Amazon Translate
+* AWS Translate
   * Language Translation
-* Amazon Transcribe
+* AWS Transcribe
   * Speech-to-text
 
 ---
 
 ## Databases
 
-* Aurora Serverless
-* Neptune
-* DynamoDB now with global Tables
+* AWS Aurora Serverless
+* AWS Neptune
+* AWS DynamoDB now with global Tables
 * On-Demand backups for DynamoDB
 
 ---
 
 ## Analytics
 
-* Amazon Kinesis Video Streams
+* AWS Kinesis Video Streams
 
 ---
 
 ## Security, Identity and Compliance
 
-* Amazon GuardDuty
+* AWS GuardDuty
 
 ---
 
@@ -123,13 +150,13 @@ Only retrieve the Data you actually need
 
 ## Augmented Reality / VR
 
-* Sumerian
+* AWS Sumerian
 
 ---
 
 ## Application Integration
 
-* AmazonMQ 
+* AWS AmazonMQ 
 
 ---
 
@@ -141,7 +168,7 @@ Only retrieve the Data you actually need
 
 ## Developer Tools
 
-* Cloud9 IDE
+* AWS Cloud9 IDE
 
 ---
 
